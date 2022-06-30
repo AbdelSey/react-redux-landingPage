@@ -31,9 +31,9 @@ const NavBar = () => {
           </div>
         </div>
 
-        <div className="absolute right-2 md:hidden cursor-pointer">
+        <div className="absolute right-2 top-1 md:hidden cursor-pointer">
           <div>
-            <h1 className="text-2xl hover:text-3xl">
+            <h1 className="text-xl hover:text-3xl">
               <div className="fixed">
                 <button
                   onClick={() => {
